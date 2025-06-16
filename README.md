@@ -42,3 +42,6 @@ Bạn có thể dùng badge này trong:
 - Landing page
 - App giới thiệu
 
+## ❤️ Figma link
+
+![Click here](https://www.figma.com/design/LhS5VhaHjfYavkbNBLC5wm/Badges--Google-Play-and-App-Store--Community-?node-id=0-1&t=r42UOQeXXxtgJOho-1)
